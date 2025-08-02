@@ -1,7 +1,13 @@
 # salary-prediction_ensemble-learning
 Salary Prediction Project(Python)
+
+
 The purpose of this project is to use data transformation and machine learning to create a model that will predict a salary when given years of experience, job type, college degree, college major, industry, and miles from a metropolis.
+
 main file : app.py
+
+
+
 Methodology
 Data Wrangling - Removed duplicates and dropped misssing or null values in the dataset.
 Exploratory Data Analysis - Analyzed the data and summarized the main characteristics.
